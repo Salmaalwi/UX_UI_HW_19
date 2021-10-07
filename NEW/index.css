@@ -1,0 +1,25 @@
+
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.nav-item{
+display: inline-block;
+justify-content: end;
+flex:  1 auto;
+flex-basis: auto;
+
+}
+
+.nav justify-content-end{
+justify-content: end;
+align-items: stretch;
+    background-color: #fff;
+    box-shadow: 0 10px 50px 0 rgb(74 144 226 / 8%);
+
+}
+.box{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
